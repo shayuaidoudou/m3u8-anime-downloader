@@ -1,0 +1,6 @@
+PySide6==6.6.1
+requests==2.31.0
+cryptography==41.0.7
+aiohttp==3.9.1
+asyncio-throttle==1.0.2
+tqdm==4.66.1
